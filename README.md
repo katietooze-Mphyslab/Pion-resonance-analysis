@@ -1,5 +1,5 @@
 # Pion-resonance-analysis
-Jupyter Notebook for analysing pion resonance data using Python, SciPy curve fitting, and simulation.
+A Jupyter Notebook containing an analysis of pion scattering data using Python, SciPy curve fitting, and simulation.
 
 This Jupyter Notebook analyses experimental data of pion scattering to estimate the resonance width (w) of a particle.
 
